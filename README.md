@@ -54,5 +54,7 @@ Learning Goals
 • Use functions and modules
 • Handle files and data storage
 • Build a complete real world console app
+
+
 Author
 Seth Sanyanda
