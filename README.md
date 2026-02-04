@@ -1,60 +1,57 @@
 Ultimate Quiz App
 
-Overview
 
-This project is a console based quiz application built with Python. It tests users in Math, Logic, and Python programming using timed multiple choice questions. Scores are saved and ranked on a leaderboard.
+Description:
+This project is a command line quiz application built with Python. It tests users in Math, Logic, and Python. The system tracks scores and ranks players on a leaderboard.
 
 
-Features
-• Multiple categories. Math, Logic, Python
-• Difficulty levels. Easy, Medium, Hard
-• 200 plus questions generated automatically
-• Randomized answer options each run
-• Countdown timer for every question
-• Score tracking
-• Progress display
+
+Problem:
+Many students study passively. They need fast practice with feedback. This app gives timed questions, scores performance, and stores results so users measure progress.
+
+
+
+Features:
+• Multiple categories, Math, Logic, Python
+• Difficulty levels, Easy, Medium, Hard
+• 200 plus auto generated questions
+• Random answer order each run
+• Timer for each question
+• Score calculation
 • Leaderboard saved to file
-• Works on Pydroid 3 and any Python 3 environment
+• Runs on any Python 3 environment
 
 
-Technologies
+
+Tools:
 • Python 3
-• Built in libraries only. random, time, os, datetime
+• random
+• time
+• os
+• datetime
 
 
-How to Run
-Step 1
-Install Python 3 or Pydroid 3
-Step 2
-Download or clone this repository
-Step 3
-Open terminal in the project folder
-Step 4
-Run
-python quiz_system.py
-Step 5
-Enter your name and follow the prompts
+
+How to run:
+• Install Python 3 or Pydroid 3
+• Open the project folder
+• Run python quiz_system.py
+• Enter your name and start the quiz
 
 
-Project Structure
-quiz_system.py. Main application
-results.txt. Stores leaderboard scores automatically
-README.md. Project documentation
-Example
-Enter your name: Seth
-Select category: Math
-Select level: Easy
-Answer questions before time runs out
-Final score displayed at the end
+Project files:
+• quiz_system.py, main program
+• results.txt, saved scores
+• README.md, documentation
 
 
-Learning Goals
-• Practice Python fundamentals
-• Work with loops and conditionals
-• Use functions and modules
-• Handle files and data storage
-• Build a complete real world console app
+What I learned:
+• Control flow with loops and conditions
+• Functions and modular design
+• File handling
+• Timers and user input
+• Building a full console application
 
 
-Author
+Author:
 Seth Sanyanda
