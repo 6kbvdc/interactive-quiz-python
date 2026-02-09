@@ -52,6 +52,8 @@ What I learned:
 • Timers and user input
 • Building a full console application
 
+How I used AI:
+I used AI (ChatGPT) as a tutor to clarify syntax, understand Python functions, and debug errors. All code, logic, and design decisions were written and implemented by me. AI helped me learn faster and check my understanding.
 
 Author:
 Seth Sanyanda
