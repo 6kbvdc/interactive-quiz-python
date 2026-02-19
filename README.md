@@ -53,7 +53,7 @@ What I learned:
 • Building a full console application
 
 How I used AI:
-I used ChatGPT as a learning assistant to understand syntax, debug errors, and improve code structure. I designed and implemented the application myself.
+I used ChatGPT as a learning assistant to understand syntax, debug errors, and improve code structure. I designed and implemented the application.
 
 Author:
 Seth Sanyanda
